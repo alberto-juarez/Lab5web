@@ -1,0 +1,59 @@
+* {
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+li{
+  list-style: none;
+}
+
+.container {
+  text-align: center;
+}
+
+.checked{
+  text-decoration: line-through;
+}
+
+.textLista{
+  margin: 10px;
+  height: 40px;
+  width: 150px;
+  text-transform: uppercase;
+}
+
+.agregarBtn{
+  height: 60px;
+  width: 150px;
+}
+
+button {
+    color: #444444;
+    background: #F3F3F3;
+    border: 1px #339FFF solid;
+    border-radius: 5px;
+    font-weight: bold;
+    outline: none;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: #339FFF;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+  background: #F2F2F2;
+  border: 1px solid #339FFF;
+  box-shadow: 1px 1px 2px #fff inset,
+              -1px -1px 2px #fff inset;
+  border-radius: 3px/6px;
+}
